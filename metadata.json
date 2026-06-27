@@ -1,0 +1,6 @@
+{
+  "name": "AIVY",
+  "description": "Screenless AI Docent App MVP Demo - AI-powered audio guide that lets you appreciate art without staring at your screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
